@@ -4,7 +4,14 @@
 
 A prefab that displays a circular array of objects that react to a audio source.
 
-How to use:
+### Features:
+
+- Fast Fourier transform via Unity's Blackman-Harris windowing function.
+- Weighted frequencies for a more balanced distrubution.
+- Supports customizable amount of displayed objects.
+- Supports adjustable rotation speed, radius, and intensity.
+
+### How to use:
 
 1.  Requires VRChat SDK3 for Worlds, the compatible Unity version and UdonSharp.
 2.  Attach an audio source to the Audio Visualizer Prefab's Audio Source field.
