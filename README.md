@@ -2,7 +2,7 @@
 
 ---
 
-A prefab that displays a circular array of objects that react to a audio source.
+A prefab that displays a circular array of objects that react to an audio source.
 
 ### Features:
 
