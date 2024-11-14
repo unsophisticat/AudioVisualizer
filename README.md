@@ -12,8 +12,8 @@ A prefab that displays a circular array of objects that react to an audio source
 - Supports adjustable rotation speed, radius, and intensity.
 
 ### How to use:
+Unity Version 2022.3.22f1
 
--   Requires VRChat SDK3 for Worlds, the compatible Unity version and UdonSharp if using Udon Sharp Ver.
 1.  Attach an audio source to the Audio Visualizer Prefab's Audio Source field.
 2.  Note: If the video player used has both video and stream audio sources, ensure the appropriate audio souce is used.
 3.  Attach a Game Object to be displayed to the Audio Visualizer Prefab's Object To Spawn field.
